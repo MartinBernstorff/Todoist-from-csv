@@ -1,13 +1,26 @@
 TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG
-task,Tjekke om slides til Nuklearmedicin er kommet op,1,0,,,19/02,dk
-task,Gennemgå forelæsningsslides til Nuklearmedicin,1,0,,,21/02,dk
-task,Tjekke om slides til Sepsis er kommet op,1,0,,,20/02,dk
-task,Gennemgå forelæsningsslides til Sepsis,1,0,,,22/02,dk
-task,Tjekke om slides til Patient med feber og hoste er kommet op,1,0,,,20/02,dk
-task,Gennemgå forelæsningsslides til Patient med feber og hoste,1,0,,,22/02,dk
-task,Tjekke om slides til HIV er kommet op,1,0,,,22/02,dk
-task,Gennemgå forelæsningsslides til HIV,1,0,,,24/02,dk
-task,Tjekke om slides til Hepatitis er kommet op,1,0,,,22/02,dk
-task,Gennemgå forelæsningsslides til Hepatitis,1,0,,,24/02,dk
-task,Tjekke om slides til Interaktioner; bivirkninger og lægemiddeludløste symptomer er kommet op,1,0,,,22/02,dk
-task,Gennemgå forelæsningsslides til Interaktioner; bivirkninger og lægemiddeludløste symptomer,1,0,,,24/02,dk
+task,Gennemgå noter til forelæsning om Nuklearmedicin og lav flashcards af det (5) @fokus,2,0,,,21/02,dk,5
+task,Gennemgå forelæsningsslides til Nuklearmedicin (5) @fokus,3,0,,,22/02,dk,5
+task,Gennemgå noter til forelæsning om Immundefekt og lav flashcards af det (5) @fokus,2,0,,,22/02,dk,5
+task,Gennemgå forelæsningsslides til Immundefekt (5) @fokus,3,0,,,23/02,dk,5
+task,Gennemgå noter til forelæsning om Sepsis og lav flashcards af det (5) @fokus,2,0,,,22/02,dk,5
+task,Gennemgå forelæsningsslides til Sepsis (5) @fokus,3,0,,,23/02,dk,5
+task,Gennemgå noter til forelæsning om Patient med feber og hoste og lav flashcards af det (5) @fokus,2,0,,,22/02,dk,5
+task,Gennemgå forelæsningsslides til Patient med feber og hoste (5) @fokus,3,0,,,23/02,dk,5
+task,Gennemgå noter til forelæsning om HIV og lav flashcards af det (5) @fokus,2,0,,,24/02,dk,5
+task,Gennemgå forelæsningsslides til HIV (5) @fokus,3,0,,,25/02,dk,5
+task,Gennemgå noter til forelæsning om Hepatitis og lav flashcards af det (5) @fokus,2,0,,,24/02,dk,5
+task,Gennemgå forelæsningsslides til Hepatitis (5) @fokus,3,0,,,25/02,dk,5
+task,Gennemgå noter til forelæsning om Interaktioner; bivirkninger og lægemiddeludløste symptomer og lav flashcards af det (5) @fokus,2,0,,,24/02,dk,5
+task,Gennemgå forelæsningsslides til Interaktioner; bivirkninger og lægemiddeludløste symptomer (5) @fokus,3,0,,,25/02,dk,5
+task,Læse og lave løbende flashcards til Eksantematøse infektionssygdomme (fælles område pædiatri) (pp. 728-739) (55) @fokus,1,0,,,20/02,dk,55
+task,"Læse og lave løbende flashcards til Infektioner i hud, bløddele og knogler (pp. 707-728) (100) @fokus",1,0,,,20/02,dk,100
+task,Læse og lave løbende flashcards til Endocarditis (pp. 991-997) (30) @fokus,1,0,,,20/02,dk,30
+task,Læse og lave løbende flashcards til Sepsis (fælles område anæstesiologi) (pp. 626-634) (45) @fokus,1,0,,,20/02,dk,45
+task,"Læse og lave løbende flashcards til Urogenitale infektioner (fælles område  nefrologi) (pp. 716, 718) (10) @fokus",1,0,,,20/02,dk,10
+task,Læse og lave løbende flashcards til Urogenitale infektioner (fælles område  nefrologi) (pp. 1966-1974) (45) @fokus,1,0,,,20/02,dk,45
+task,Læse og lave løbende flashcards til Luftvejsinfektioner (pp. 660-686) (125) @fokus,1,0,,,20/02,dk,125
+task,Læse og lave løbende flashcards til Syfilis (pp. 717-718) (5) @fokus,1,0,,,20/02,dk,5
+task,Læse og lave løbende flashcards til Tuberkulose (pp. 719-726) (40) @fokus,1,0,,,20/02,dk,40
+task,Læse og lave løbende flashcards til HIV (pp. 747-754) (35) @fokus,1,0,,,22/02,dk,35
+task,Læse og lave løbende flashcards til Hepatitis (pp. 739-747) (40) @fokus,1,0,,,22/02,dk,40
