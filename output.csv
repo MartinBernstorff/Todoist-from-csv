@@ -1,26 +1,25 @@
 TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG
-task,Gennemgå noter til forelæsning om Nuklearmedicin og lav flashcards af det (5) @fokus,2,0,,,21/02,dk,5
-task,Gennemgå forelæsningsslides til Nuklearmedicin (5) @fokus,3,0,,,22/02,dk,5
-task,Gennemgå noter til forelæsning om Immundefekt og lav flashcards af det (5) @fokus,2,0,,,22/02,dk,5
-task,Gennemgå forelæsningsslides til Immundefekt (5) @fokus,3,0,,,23/02,dk,5
-task,Gennemgå noter til forelæsning om Sepsis og lav flashcards af det (5) @fokus,2,0,,,22/02,dk,5
-task,Gennemgå forelæsningsslides til Sepsis (5) @fokus,3,0,,,23/02,dk,5
-task,Gennemgå noter til forelæsning om Patient med feber og hoste og lav flashcards af det (5) @fokus,2,0,,,22/02,dk,5
-task,Gennemgå forelæsningsslides til Patient med feber og hoste (5) @fokus,3,0,,,23/02,dk,5
-task,Gennemgå noter til forelæsning om HIV og lav flashcards af det (5) @fokus,2,0,,,24/02,dk,5
-task,Gennemgå forelæsningsslides til HIV (5) @fokus,3,0,,,25/02,dk,5
-task,Gennemgå noter til forelæsning om Hepatitis og lav flashcards af det (5) @fokus,2,0,,,24/02,dk,5
-task,Gennemgå forelæsningsslides til Hepatitis (5) @fokus,3,0,,,25/02,dk,5
-task,Gennemgå noter til forelæsning om Interaktioner; bivirkninger og lægemiddeludløste symptomer og lav flashcards af det (5) @fokus,2,0,,,24/02,dk,5
-task,Gennemgå forelæsningsslides til Interaktioner; bivirkninger og lægemiddeludløste symptomer (5) @fokus,3,0,,,25/02,dk,5
-task,Læse og lave løbende flashcards til Eksantematøse infektionssygdomme (fælles område pædiatri) (pp. 728-739) (55) @fokus,1,0,,,20/02,dk,55
-task,"Læse og lave løbende flashcards til Infektioner i hud, bløddele og knogler (pp. 707-728) (100) @fokus",1,0,,,20/02,dk,100
-task,Læse og lave løbende flashcards til Endocarditis (pp. 991-997) (30) @fokus,1,0,,,20/02,dk,30
-task,Læse og lave løbende flashcards til Sepsis (fælles område anæstesiologi) (pp. 626-634) (45) @fokus,1,0,,,20/02,dk,45
-task,"Læse og lave løbende flashcards til Urogenitale infektioner (fælles område  nefrologi) (pp. 716, 718) (10) @fokus",1,0,,,20/02,dk,10
-task,Læse og lave løbende flashcards til Urogenitale infektioner (fælles område  nefrologi) (pp. 1966-1974) (45) @fokus,1,0,,,20/02,dk,45
-task,Læse og lave løbende flashcards til Luftvejsinfektioner (pp. 660-686) (125) @fokus,1,0,,,20/02,dk,125
-task,Læse og lave løbende flashcards til Syfilis (pp. 717-718) (5) @fokus,1,0,,,20/02,dk,5
-task,Læse og lave løbende flashcards til Tuberkulose (pp. 719-726) (40) @fokus,1,0,,,20/02,dk,40
-task,Læse og lave løbende flashcards til HIV (pp. 747-754) (35) @fokus,1,0,,,22/02,dk,35
-task,Læse og lave løbende flashcards til Hepatitis (pp. 739-747) (40) @fokus,1,0,,,22/02,dk,40
+task,Læs og tag essentielle noter til Malaria (pp. 801-806) @fokus (35),1,0,,,26/02,dk,35
+task,Læs og tag essentielle noter til Neuroinfektioner (pp. 635-659) @fokus (161),1,0,,,27/02,dk,161
+task,Læs og tag essentielle noter til Jernmangelanæmi (pp. 1722-1723) @fokus (7),1,0,,,27/02,dk,7
+task,Læs og tag essentielle noter til Megaloblastær anæmi (pp. 1724-1726) @fokus (14),1,0,,,27/02,dk,14
+task,Læs og tag essentielle noter til Hæmolytisk anæmi (pp. 1727-1733) @fokus (42),1,0,,,27/02,dk,42
+task,Læs og tag essentielle noter til Aplastisk anæmi (pp. 1738-1739) @fokus (14),1,0,,,27/02,dk,14
+task,Læs og tag essentielle noter til Akut nyresvigt (pp. 1886-1897) @fokus (70),1,0,,,01/03,dk,70
+task,Læs og tag essentielle noter til Nefrotisk syndrom (pp. 1900-1902) @fokus (14),1,0,,,01/03,dk,14
+task,Læs og tag essentielle noter til Postinfektiøs glomerulonefritis (pp. 1911-1918) @fokus (49),1,0,,,01/03,dk,49
+task,Læs og tag essentielle noter til Immunologiske og autoimmune nyresygdomme (pp. 1925 – 1930) @fokus (35),1,0,,,01/03,dk,35
+task,Gennemgå noter til Kommunikation @fokus (10),3,0,,,28/02,dk,10
+task,Kig gennem forelæsningsslides til Parasitologi og tropemedicin @fokus (3),3,0,,,26/02,dk,3
+task,Lav flashcards af forelæsningsnoter i Parasitologi og tropemedicin @fokus (15),2,0,,,28/02,dk,15
+task,Kig gennem forelæsningsslides til CNS-infektioner @fokus (3),3,0,,,27/02,dk,3
+task,Lav flashcards af forelæsningsnoter i CNS-infektioner @fokus (15),2,0,,,01/03,dk,15
+task,Kig gennem forelæsningsslides til Anæmier @fokus (3),3,0,,,27/02,dk,3
+task,Lav flashcards af forelæsningsnoter i Anæmier @fokus (15),2,0,,,01/03,dk,15
+task,Kig gennem forelæsningsslides til Casebaseret forelæsning @fokus (3),3,0,,,27/02,dk,3
+task,Lav flashcards af forelæsningsnoter i Casebaseret forelæsning @fokus (15),2,0,,,01/03,dk,15
+task,"Kig gennem forelæsningsslides til Undersøgelser, akut nyresvigt @fokus (3)",3,0,,,01/03,dk,3
+task,"Lav flashcards af forelæsningsnoter i Undersøgelser, akut nyresvigt @fokus (15)",2,0,,,03/03,dk,15
+task,Kig gennem forelæsningsslides til Glomerulonefritis og transplantation @fokus (3),3,0,,,01/03,dk,3
+task,Lav flashcards af forelæsningsnoter i Glomerulonefritis og transplantation @fokus (15),2,0,,,03/03,dk,15
+task,Gennemgå noter til Medicingennemgang @fokus (10),3,0,,,03/03,dk,10

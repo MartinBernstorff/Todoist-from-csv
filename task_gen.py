@@ -22,7 +22,7 @@ fw.writerow(['TYPE', 'CONTENT', 'PRIORITY', 'INDENT', 'AUTHOR', 'RESPONSIBLE', '
 ###############
 
 
-def todo_w(content, priority="4", indent="0", delta=None, date=None, d_pages=None, n_pages=None):
+def todo_w(content, time=None, priority="4", indent="0", delta=None, date=None, d_pages=None, n_pages=None):
     """
         Todoist-formatted row writer
 
@@ -30,18 +30,18 @@ def todo_w(content, priority="4", indent="0", delta=None, date=None, d_pages=Non
             Content: String description of task
             Priority: String [1-4]
             Indent: String [1-4]
-            delta: Int delta for task due_date in days from date
+            delta: Days from 'date' to task due_date [int]
+            time: Task duration in minutes [int]
     """
     if delta != None:
         delta_date = datetime.datetime.strptime(date, "%d/%m") + datetime.timedelta(days=delta)  # Calculate time with delta
         date = datetime.datetime.strftime(delta_date, "%d/%m")
 
     assert date != None
+    assert time != None
 
-    if time != None:
-        fw.writerow(['task', content, priority, indent, '', '', date, 'dk', time])
-    else:
-        fw.writerow(['task', content, priority, indent, '', '', date, 'dk'])
+    fw.writerow(['task', content + " (" + str(time) + ")", priority, indent, '', '', date, 'dk', time])
+
 
 ####################
 ## RUN THE SCRIPT ##
@@ -69,11 +69,10 @@ for row in fr:
 
     # Create the tasks
     if category == "F":  # Run this if lecture
-        time = 5
-        todo_w("Gennemgå noter til forelæsning om {subject} og lav flashcards af det (5) @fokus".format(subject=subject), priority=2, delta=1, date=date)
-        todo_w("Gennemgå forelæsningsslides til {subject} (5) @fokus".format(subject=subject), priority=3, delta=2, date=date)
+        todo_w("Kig gennem forelæsningsslides til {subject} @fokus".format(subject=subject), priority=3, delta=-1, date=date, time=3)
+        todo_w("Lav flashcards af forelæsningsnoter i {subject} @fokus".format(subject=subject), priority=2, delta=1, date=date, time=15)
     elif category == "H":  # Run this if class
-        pass
+        todo_w("Gennemgå noter til {subject} @fokus".format(subject=subject), priority=3, delta=1, date=date, time=10)
     elif category == "K":  # Run this if chapter
-        time = int(n_pages) * 5
-        todo_w("Læse og lave løbende flashcards til {subject} (pp. {d_pages}) ({time}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-1, date=date)
+        time = int(n_pages) * 7
+        todo_w("Læs og tag essentielle noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-1, date=date, time=time)
