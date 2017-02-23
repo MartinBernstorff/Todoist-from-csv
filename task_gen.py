@@ -76,3 +76,5 @@ for row in fr:
     elif category == "K":  # Run this if chapter
         time = int(n_pages) * 7
         todo_w("Læs og tag essentielle noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-1, date=date, time=time)
+        time = int(n_pages) * 3
+        todo_w("Gennemgå noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=1, date=date, time=time)
