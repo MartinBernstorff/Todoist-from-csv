@@ -46,11 +46,14 @@ def todo_w(content, time=None, priority="4", indent="0", delta=None, date=None, 
 ####################
 ## RUN THE SCRIPT ##
 ####################
-
+i = 2 # Since we're skipping the first line, line 2 is the first one to be processed
 
 for row in fr:
     if fr.line_num == 1:  # Skip first row
         continue
+
+
+    print("Processing line {i}".format(i=i))
 
     """
         n_pages: Amount of pages
@@ -69,12 +72,13 @@ for row in fr:
 
     # Create the tasks
     if category == "F":  # Run this if lecture
-        todo_w("Kig gennem forelæsningsslides til {subject} @fokus".format(subject=subject), priority=3, delta=-1, date=date, time=3)
-        todo_w("Lav flashcards af forelæsningsnoter i {subject} @fokus".format(subject=subject), priority=2, delta=1, date=date, time=15)
+        todo_w("Kig gennem forelæsningsslides til {subject} @fokus".format(subject=subject), priority=3, delta=-1, date=date, time=0)
+        todo_w("Lav flashcards af forelæsningsnoter i {subject} @fokus".format(subject=subject), priority=2, delta=1, date=date, time=10)
     elif category == "H":  # Run this if class
         todo_w("Gennemgå noter til {subject} @fokus".format(subject=subject), priority=3, delta=1, date=date, time=10)
     elif category == "K":  # Run this if chapter
-        time = int(n_pages) * 7
+        time = int(n_pages) * 5
         todo_w("Læs og tag essentielle noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-1, date=date, time=time)
-        time = int(n_pages) * 3
-        todo_w("Gennemgå noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=1, date=date, time=time)
+        time = int(n_pages) * 1
+        todo_w("Gennemgå noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=3, delta=1, date=date, time=time)
+    i+=1

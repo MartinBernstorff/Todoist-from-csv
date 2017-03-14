@@ -1,25 +1,26 @@
 TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG
-task,Læs og tag essentielle noter til Malaria (pp. 801-806) @fokus (35),1,0,,,26/02,dk,35
-task,Læs og tag essentielle noter til Neuroinfektioner (pp. 635-659) @fokus (161),1,0,,,27/02,dk,161
-task,Læs og tag essentielle noter til Jernmangelanæmi (pp. 1722-1723) @fokus (7),1,0,,,27/02,dk,7
-task,Læs og tag essentielle noter til Megaloblastær anæmi (pp. 1724-1726) @fokus (14),1,0,,,27/02,dk,14
-task,Læs og tag essentielle noter til Hæmolytisk anæmi (pp. 1727-1733) @fokus (42),1,0,,,27/02,dk,42
-task,Læs og tag essentielle noter til Aplastisk anæmi (pp. 1738-1739) @fokus (14),1,0,,,27/02,dk,14
-task,Læs og tag essentielle noter til Akut nyresvigt (pp. 1886-1897) @fokus (70),1,0,,,01/03,dk,70
-task,Læs og tag essentielle noter til Nefrotisk syndrom (pp. 1900-1902) @fokus (14),1,0,,,01/03,dk,14
-task,Læs og tag essentielle noter til Postinfektiøs glomerulonefritis (pp. 1911-1918) @fokus (49),1,0,,,01/03,dk,49
-task,Læs og tag essentielle noter til Immunologiske og autoimmune nyresygdomme (pp. 1925 – 1930) @fokus (35),1,0,,,01/03,dk,35
-task,Gennemgå noter til Kommunikation @fokus (10),3,0,,,28/02,dk,10
-task,Kig gennem forelæsningsslides til Parasitologi og tropemedicin @fokus (3),3,0,,,26/02,dk,3
-task,Lav flashcards af forelæsningsnoter i Parasitologi og tropemedicin @fokus (15),2,0,,,28/02,dk,15
-task,Kig gennem forelæsningsslides til CNS-infektioner @fokus (3),3,0,,,27/02,dk,3
-task,Lav flashcards af forelæsningsnoter i CNS-infektioner @fokus (15),2,0,,,01/03,dk,15
-task,Kig gennem forelæsningsslides til Anæmier @fokus (3),3,0,,,27/02,dk,3
-task,Lav flashcards af forelæsningsnoter i Anæmier @fokus (15),2,0,,,01/03,dk,15
-task,Kig gennem forelæsningsslides til Casebaseret forelæsning @fokus (3),3,0,,,27/02,dk,3
-task,Lav flashcards af forelæsningsnoter i Casebaseret forelæsning @fokus (15),2,0,,,01/03,dk,15
-task,"Kig gennem forelæsningsslides til Undersøgelser, akut nyresvigt @fokus (3)",3,0,,,01/03,dk,3
-task,"Lav flashcards af forelæsningsnoter i Undersøgelser, akut nyresvigt @fokus (15)",2,0,,,03/03,dk,15
-task,Kig gennem forelæsningsslides til Glomerulonefritis og transplantation @fokus (3),3,0,,,01/03,dk,3
-task,Lav flashcards af forelæsningsnoter i Glomerulonefritis og transplantation @fokus (15),2,0,,,03/03,dk,15
-task,Gennemgå noter til Medicingennemgang @fokus (10),3,0,,,03/03,dk,10
+task,Kig gennem forelæsningsslides til Malabsorption @fokus (0),3,0,,,27/03,dk,0
+task,Lav flashcards af forelæsningsnoter i Malabsorption @fokus (10),2,0,,,29/03,dk,10
+task,Læs og tag essentielle noter til Funktionelle gastrointestinalsygdomme (pp. 1514 – 1515) @fokus (15),1,0,,,27/03,dk,15
+task,Gennemgå noter til Funktionelle gastrointestinalsygdomme (pp. 1514 – 1515) @fokus (3),3,0,,,29/03,dk,3
+task,Læs og tag essentielle noter til Funktionelle gastrointestinalsygdomme (pp. 1490 – 1491) @fokus (5),1,0,,,27/03,dk,5
+task,Gennemgå noter til Funktionelle gastrointestinalsygdomme (pp. 1490 – 1491) @fokus (1),3,0,,,29/03,dk,1
+task,Læs og tag essentielle noter til Cøliaki (pp. 1559 – 1563) @fokus (20),1,0,,,27/03,dk,20
+task,Gennemgå noter til Cøliaki (pp. 1559 – 1563) @fokus (4),3,0,,,29/03,dk,4
+task,Kig gennem forelæsningsslides til Tarmsvigt @fokus (0),3,0,,,27/03,dk,0
+task,Lav flashcards af forelæsningsnoter i Tarmsvigt @fokus (10),2,0,,,29/03,dk,10
+task,Læs og tag essentielle noter til Kronisk pankreatitis (pp. 1591 – 1597) @fokus (35),1,0,,,27/03,dk,35
+task,Gennemgå noter til Kronisk pankreatitis (pp. 1591 – 1597) @fokus (7),3,0,,,29/03,dk,7
+task,Kig gennem forelæsningsslides til Inflammatorisk tarmsygdom @fokus (0),3,0,,,29/03,dk,0
+task,Lav flashcards af forelæsningsnoter i Inflammatorisk tarmsygdom @fokus (10),2,0,,,31/03,dk,10
+task,Læs og tag essentielle noter til Kronisk inflammatoriske tarmsygdomme (pp. 1530 – 1552) @fokus (110),1,0,,,29/03,dk,110
+task,Gennemgå noter til Kronisk inflammatoriske tarmsygdomme (pp. 1530 – 1552) @fokus (22),3,0,,,31/03,dk,22
+task,Kig gennem forelæsningsslides til Patient med ondt i maven @fokus (0),3,0,,,29/03,dk,0
+task,Lav flashcards af forelæsningsnoter i Patient med ondt i maven @fokus (10),2,0,,,31/03,dk,10
+task,Læs og tag essentielle noter til Gastroøsofageal reflux   (pp. 1455 – 1460) @fokus (20),1,0,,,29/03,dk,20
+task,Gennemgå noter til Gastroøsofageal reflux   (pp. 1455 – 1460) @fokus (4),3,0,,,31/03,dk,4
+task,Læs og tag essentielle noter til Ulcussygdomme  (pp. 1475 – 1480) @fokus (25),1,0,,,29/03,dk,25
+task,Gennemgå noter til Ulcussygdomme  (pp. 1475 – 1480) @fokus (5),3,0,,,31/03,dk,5
+task,Gennemgå noter til Casebaseret forelæsning @fokus (10),3,0,,,29/03,dk,10
+task,Kig gennem forelæsningsslides til Tværfaglig stuegang @fokus (0),3,0,,,28/03,dk,0
+task,Lav flashcards af forelæsningsnoter i Tværfaglig stuegang @fokus (10),2,0,,,30/03,dk,10
