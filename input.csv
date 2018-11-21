@@ -1,14 +1,67 @@
 CATEGORY([F]orelæsning/[H]oldtime/[K]apitel),SUBJECT,DATE (DD/MM),PAGES INTERVAL,# PAGES
-F,Malabsorption,28/03,,
-K,Funktionelle gastrointestinalsygdomme,28/03,1514 – 1515,3
-K,Funktionelle gastrointestinalsygdomme,28/03,1490 – 1491,1
-K,Cøliaki,28/03,1559 – 1563,4
-F,Tarmsvigt,28/03,,
-K,Kronisk pankreatitis,28/03,1591 – 1597,7
-F,Inflammatorisk tarmsygdom,30/03,,
-K,Kronisk inflammatoriske tarmsygdomme,30/03,1530 – 1552,22
-F,Patient med ondt i maven,30/03,,
-K,Gastroøsofageal reflux  ,30/03,1455 – 1460,4
-K,Ulcussygdomme ,30/03,1475 – 1480,5
-H,Casebaseret forelæsning,28/03,,
-F,Tværfaglig stuegang,29/03,,
+K,ØNH: Slimhindeforandringer i cavum oris (255+280-281+296-298+310-312),,0 - 8,8
+K,ØNH: Konduktiv og sensorineural hørenedsættelse og årsager hertil,,40 - 50,10
+K,ØNH: Medfødte misdannelser af ydre øre og øregang ,,73 - 75,2
+K,ØNH: Konduktiv og sensorineural hørenedsættelse og årsager hertil,,76 - 79,3
+K,ØNH: Fremmedlegemer i øregang,,86 - 87,1
+K,ØNH: Barotraumer og trommehinderuptur,,87 - 88,1
+K,ØNH: Perilymfatisk fistel og commotio labyrinthi,,88 - 89,1
+K,ØNH: Otitis externa ,,94 - 96,2
+K,ØNH: Akut/sekretorisk/kronisk otitis media ,,96 - 110,14
+K,ØNH: Cholesteatom ,,104 - 106,2
+K,ØNH: Labyrintitis ,,108 - 109,1
+K,ØNH: Perifer facialisparese ,,110 - 114,4
+K,ØNH: Tinnitus og sudden deafness ,,115 - 117,2
+K,ØNH: Vestibulær neuritis ,,118 - 119,1
+K,ØNH: Vestibularis Schwannom ,,121 - 122,1
+K,ØNH: Wegeners Granulomatose ,,123 - 124,1
+K,ØNH: Morbus Meniere ,,124 - 125,1
+K,ØNH: Benign paroxysmal positionel vertigo ,,125 - 126,1
+K,ØNH: Tinnitus og sudden deafness ,,129 - 130,1
+K,ØNH: Presbyacusis ,,129 - 130,1
+K,ØNH: Ydre næsedeformiteter,,139 - 140,1
+K,ØNH: Morbus Osler ,,142 - 143,1
+K,ØNH: Fremmedlegemer i næsen,,146 - 147,1
+K,ØNH: Septumhæmatom/absces/deviation ,,147 - 148,1
+K,ØNH: Ansigtsfrakturer ,,149 - 153,4
+K,ØNH: Rhinosinuitis I,,157 - 165,8
+K,ØNH: Rhinosinuitis II,,165 - 173,8
+K,ØNH: Pyo- og mucoceler ,,173 - 174,1
+K,ØNH: Sinonasal cancer,,179 - 180,1
+K,ØNH: Epistaxis,,181 - 183,2
+K,ØNH: Wegeners,,183 - 184,1
+K,ØNH: Snorken og obstruktiv søvnapnø,,188 - 194,6
+K,ØNH: Laryngologi og foniatri,,204 – 210,6
+K,ØNH: Laryngologi II,,210 – 218,8
+K,ØNH: Laryngologi III,,219 – 227,8
+K,ØNH: Laryngologi IV,,228 – 236,8
+K,ØNH: Pseudocroup ,,210 - 211,1
+K,ØNH: Laryngitis og akut epiglottitis,,211 - 214,3
+K,ØNH: Udfyldning i larynx ,,214 - 223,9
+K,ØNH: Benigne stemmelidelser,,214 - 218,4
+K,ØNH: Larynxcancer og præmaligne tilstande,,220 - 223,3
+K,ØNH: Recurrenc parese,,223 - 226,3
+K,ØNH: Læbe-gumme-gane-spalte ,,239 - 241,2
+K,ØNH: Halsens cyster og fistler ,,243 - 244,1
+K,ØNH: Primær hyperparathyroidisme,,248 - 249,1
+K,ØNH: Gingivitis ,,258 - 259,1
+K,ØNH: Stomatitis og candidiasis oris,,259 - 261,2
+K,ØNH: Adenoide vegetationer og hypertrofia tonsillarum,,262 - 263,1
+K,ØNH: Pharyngitis ,,263 - 265,2
+K,ØNH: Tonsillitis ,,265 - 266,1
+K,ØNH: Peritonsillær/pharapharyngeal/retropharyngeal abscess ,,268 - 269,1
+K,ØNH: Tonsillitis ,,270 - 271,1
+K,ØNH: Lymphadenitis,,272 - 273,1
+K,ØNH: Mononucleosis infectiosa,,273 - 274,1
+K,ØNH: Akutte spytkirtelinfektioner,,275 - 277,2
+K,ØNH: Thyroiditis,,277 - 278,1
+K,ØNH: Papillomer,,281 - 282,1
+K,ØNH: Spytkirtelcyster,,285 - 286,1
+K,"ØNH: Benigne thyroidealidelser, inkl. struma",,286 - 288,2
+K,ØNH: Mundhulecancer,,295 - 297,2
+K,ØNH: Pharynxcancer,,298 - 301,3
+K,ØNH: Spytkirteltumorer,,303 - 304,1
+K,ØNH: Thyroideacancer,,304 - 308,4
+K,ØNH: Ukendt primær tumor,,308 - 310,2
+K,ØNH: Spytsten,,312 - 315,3
+K,ØNH: Sjögrens Sygdom,,315 - 316,1

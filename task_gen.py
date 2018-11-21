@@ -33,7 +33,7 @@ def todo_w(content, time=None, priority="4", indent="0", delta=None, date=None, 
             delta: Days from 'date' to task due_date [int]
             time: Task duration in minutes [int]
     """
-    if delta != None:
+    if delta != None and date != None and date != "":
         delta_date = datetime.datetime.strptime(date, "%d/%m") + datetime.timedelta(days=delta)  # Calculate time with delta
         date = datetime.datetime.strftime(delta_date, "%d/%m")
 
@@ -62,6 +62,7 @@ for row in fr:
 
     category, subject, date, d_pages, n_pages = row
 
+
     # Check for empty fields
     assert category != ""
     assert subject != ""
@@ -72,13 +73,15 @@ for row in fr:
 
     # Create the tasks
     if category == "F":  # Run this if lecture
-        todo_w("Kig gennem forelæsningsslides til {subject} @fokus".format(subject=subject), priority=3, delta=-1, date=date, time=0)
-        todo_w("Lav flashcards af forelæsningsnoter i {subject} @fokus".format(subject=subject), priority=2, delta=1, date=date, time=10)
+        todo_w("Kig gennem forelæsningsslides til {subject} @fokus".format(subject=subject), priority=4, delta=-1, date=date, time=5)
+        todo_w("Gennemgå forelæsningsnoter i {subject} @fokus".format(subject=subject), priority=2, delta=1, date=date, time=10)
     elif category == "H":  # Run this if class
+        todo_w("Tjekke for kapitler til {subject} og indkod dem @fokus".format(subject=subject), priority=4, delta=-7, date=date, time=5)
         todo_w("Gennemgå noter til {subject} @fokus".format(subject=subject), priority=3, delta=1, date=date, time=10)
     elif category == "K":  # Run this if chapter
-        time = int(n_pages) * 5
-        todo_w("Læs og tag essentielle noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-2, date=date, time=time)
-        time = int(n_pages) * 1
-        todo_w("Gennemgå noter til {subject} (pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=3, delta=-1, date=date, time=time)
+        time = int(n_pages) * 4
+        todo_w("{subject}, pp. {d_pages})".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-2, date=date, time=time)
+    elif category == "M":  # Run this if chapter
+        time = int(n_pages) * 4
+        todo_w("Læs og lav flashcards til {subject} (M-bogen, pp. {d_pages}) @fokus".format(subject=subject, d_pages=d_pages, time=time), priority=1, delta=-2, date=date, time=time)
     i+=1

@@ -1,26 +1,63 @@
 TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG
-task,Kig gennem forelæsningsslides til Malabsorption @fokus (0),3,0,,,27/03,dk,0
-task,Lav flashcards af forelæsningsnoter i Malabsorption @fokus (10),2,0,,,29/03,dk,10
-task,Læs og tag essentielle noter til Funktionelle gastrointestinalsygdomme (pp. 1514 – 1515) @fokus (15),1,0,,,27/03,dk,15
-task,Gennemgå noter til Funktionelle gastrointestinalsygdomme (pp. 1514 – 1515) @fokus (3),3,0,,,29/03,dk,3
-task,Læs og tag essentielle noter til Funktionelle gastrointestinalsygdomme (pp. 1490 – 1491) @fokus (5),1,0,,,27/03,dk,5
-task,Gennemgå noter til Funktionelle gastrointestinalsygdomme (pp. 1490 – 1491) @fokus (1),3,0,,,29/03,dk,1
-task,Læs og tag essentielle noter til Cøliaki (pp. 1559 – 1563) @fokus (20),1,0,,,27/03,dk,20
-task,Gennemgå noter til Cøliaki (pp. 1559 – 1563) @fokus (4),3,0,,,29/03,dk,4
-task,Kig gennem forelæsningsslides til Tarmsvigt @fokus (0),3,0,,,27/03,dk,0
-task,Lav flashcards af forelæsningsnoter i Tarmsvigt @fokus (10),2,0,,,29/03,dk,10
-task,Læs og tag essentielle noter til Kronisk pankreatitis (pp. 1591 – 1597) @fokus (35),1,0,,,27/03,dk,35
-task,Gennemgå noter til Kronisk pankreatitis (pp. 1591 – 1597) @fokus (7),3,0,,,29/03,dk,7
-task,Kig gennem forelæsningsslides til Inflammatorisk tarmsygdom @fokus (0),3,0,,,29/03,dk,0
-task,Lav flashcards af forelæsningsnoter i Inflammatorisk tarmsygdom @fokus (10),2,0,,,31/03,dk,10
-task,Læs og tag essentielle noter til Kronisk inflammatoriske tarmsygdomme (pp. 1530 – 1552) @fokus (110),1,0,,,29/03,dk,110
-task,Gennemgå noter til Kronisk inflammatoriske tarmsygdomme (pp. 1530 – 1552) @fokus (22),3,0,,,31/03,dk,22
-task,Kig gennem forelæsningsslides til Patient med ondt i maven @fokus (0),3,0,,,29/03,dk,0
-task,Lav flashcards af forelæsningsnoter i Patient med ondt i maven @fokus (10),2,0,,,31/03,dk,10
-task,Læs og tag essentielle noter til Gastroøsofageal reflux   (pp. 1455 – 1460) @fokus (20),1,0,,,29/03,dk,20
-task,Gennemgå noter til Gastroøsofageal reflux   (pp. 1455 – 1460) @fokus (4),3,0,,,31/03,dk,4
-task,Læs og tag essentielle noter til Ulcussygdomme  (pp. 1475 – 1480) @fokus (25),1,0,,,29/03,dk,25
-task,Gennemgå noter til Ulcussygdomme  (pp. 1475 – 1480) @fokus (5),3,0,,,31/03,dk,5
-task,Gennemgå noter til Casebaseret forelæsning @fokus (10),3,0,,,29/03,dk,10
-task,Kig gennem forelæsningsslides til Tværfaglig stuegang @fokus (0),3,0,,,28/03,dk,0
-task,Lav flashcards af forelæsningsnoter i Tværfaglig stuegang @fokus (10),2,0,,,30/03,dk,10
+task,"Læs og lav flashcards til ØNH: Slimhindeforandringer i cavum oris (255+280-281+296-298+310-312), pp. 0 - 8) @fokus (16)",1,0,,,,dk,16
+task,"Læs og lav flashcards til ØNH: Konduktiv og sensorineural hørenedsættelse og årsager hertil, pp. 40 - 50) @fokus (20)",1,0,,,,dk,20
+task,"Læs og lav flashcards til ØNH: Medfødte misdannelser af ydre øre og øregang , pp. 73 - 75) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Konduktiv og sensorineural hørenedsættelse og årsager hertil, pp. 76 - 79) @fokus (6)",1,0,,,,dk,6
+task,"Læs og lav flashcards til ØNH: Fremmedlegemer i øregang, pp. 86 - 87) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Barotraumer og trommehinderuptur, pp. 87 - 88) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Perilymfatisk fistel og commotio labyrinthi, pp. 88 - 89) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Otitis externa , pp. 94 - 96) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Akut/sekretorisk/kronisk otitis media , pp. 96 - 110) @fokus (28)",1,0,,,,dk,28
+task,"Læs og lav flashcards til ØNH: Cholesteatom , pp. 104 - 106) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Labyrintitis , pp. 108 - 109) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Perifer facialisparese , pp. 110 - 114) @fokus (8)",1,0,,,,dk,8
+task,"Læs og lav flashcards til ØNH: Tinnitus og sudden deafness , pp. 115 - 117) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Vestibulær neuritis , pp. 118 - 119) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Vestibularis Schwannom , pp. 121 - 122) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Wegeners Granulomatose , pp. 123 - 124) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Morbus Meniere , pp. 124 - 125) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Benign paroxysmal positionel vertigo , pp. 125 - 126) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Tinnitus og sudden deafness , pp. 129 - 130) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Presbyacusis , pp. 129 - 130) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Ydre næsedeformiteter, pp. 139 - 140) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Morbus Osler , pp. 142 - 143) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Fremmedlegemer i næsen, pp. 146 - 147) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Septumhæmatom/absces/deviation , pp. 147 - 148) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Ansigtsfrakturer , pp. 149 - 153) @fokus (8)",1,0,,,,dk,8
+task,"Læs og lav flashcards til ØNH: Rhinosinuitis , pp. 157 - 173) @fokus (32)",1,0,,,,dk,32
+task,"Læs og lav flashcards til ØNH: Pyo- og mucoceler , pp. 173 - 174) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Sinonasal cancer, pp. 179 - 180) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Epistaxis, pp. 181 - 183) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Wegeners, pp. 183 - 184) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Snorken og obstruktiv søvnapnø, pp. 188 - 194) @fokus (12)",1,0,,,,dk,12
+task,"Læs og lav flashcards til ØNH: Laryngologi og foniatri, pp. 204 - 236) @fokus (64)",1,0,,,,dk,64
+task,"Læs og lav flashcards til ØNH: Pseudocroup , pp. 210 - 211) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Laryngitis og akut epiglottitis, pp. 211 - 214) @fokus (6)",1,0,,,,dk,6
+task,"Læs og lav flashcards til ØNH: Udfyldning i larynx , pp. 214 - 223) @fokus (18)",1,0,,,,dk,18
+task,"Læs og lav flashcards til ØNH: Benigne stemmelidelser, pp. 214 - 218) @fokus (8)",1,0,,,,dk,8
+task,"Læs og lav flashcards til ØNH: Larynxcancer og præmaligne tilstande, pp. 220 - 223) @fokus (6)",1,0,,,,dk,6
+task,"Læs og lav flashcards til ØNH: Recurrenc parese, pp. 223 - 226) @fokus (6)",1,0,,,,dk,6
+task,"Læs og lav flashcards til ØNH: Læbe-gumme-gane-spalte , pp. 239 - 241) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Halsens cyster og fistler , pp. 243 - 244) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Primær hyperparathyroidisme, pp. 248 - 249) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Gingivitis , pp. 258 - 259) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Stomatitis og candidiasis oris, pp. 259 - 261) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Adenoide vegetationer og hypertrofia tonsillarum, pp. 262 - 263) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Pharyngitis , pp. 263 - 265) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Tonsillitis , pp. 265 - 266) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Peritonsillær/pharapharyngeal/retropharyngeal abscess , pp. 268 - 269) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Tonsillitis , pp. 270 - 271) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Lymphadenitis, pp. 272 - 273) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Mononucleosis infectiosa, pp. 273 - 274) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Akutte spytkirtelinfektioner, pp. 275 - 277) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Thyroiditis, pp. 277 - 278) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Papillomer, pp. 281 - 282) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Spytkirtelcyster, pp. 285 - 286) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Benigne thyroidealidelser, inkl. struma, pp. 286 - 288) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Mundhulecancer, pp. 295 - 297) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Pharynxcancer, pp. 298 - 301) @fokus (6)",1,0,,,,dk,6
+task,"Læs og lav flashcards til ØNH: Spytkirteltumorer, pp. 303 - 304) @fokus (2)",1,0,,,,dk,2
+task,"Læs og lav flashcards til ØNH: Thyroideacancer, pp. 304 - 308) @fokus (8)",1,0,,,,dk,8
+task,"Læs og lav flashcards til ØNH: Ukendt primær tumor, pp. 308 - 310) @fokus (4)",1,0,,,,dk,4
+task,"Læs og lav flashcards til ØNH: Spytsten, pp. 312 - 315) @fokus (6)",1,0,,,,dk,6
+task,"Læs og lav flashcards til ØNH: Sjögrens Sygdom, pp. 315 - 316) @fokus (2)",1,0,,,,dk,2
